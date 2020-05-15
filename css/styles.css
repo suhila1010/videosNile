@@ -279,3 +279,16 @@ body{
   .demo-gallery.dark > ul > li a {
     border: 3px solid #04070a;
   }
+
+  
+.title {
+  font-size: 26px;
+  text-transform: uppercase;
+  color: #af8d32;
+  border-left: 3px solid #f6c33b;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 10px;
+  margin-bottom: 40px;
+  margin-left: 15px;
+}
